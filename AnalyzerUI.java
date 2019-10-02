@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 
-
+//
 public class AnalyzerUI extends Application {
 
     private static final int MAX_DATA_POINTS = 10000;
